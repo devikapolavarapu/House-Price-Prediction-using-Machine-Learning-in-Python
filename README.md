@@ -24,3 +24,20 @@ The model is trained on a dataset containing 2,919 property records with the fol
 - SalePrice: Target variable (to be predicted)
 
 
+
+
+🛠️ Technologies Used
+Python (Pandas, NumPy, Matplotlib, Seaborn)
+Scikit-Learn (Machine Learning library)
+Jupyter Notebook (Optional for exploration)
+OpenPyXL (Excel file handling)
+
+📋 Future Improvements
+Hyperparameter tuning for optimized performance
+Feature engineering to create new predictive variables
+Experiment with gradient boosting models (XGBoost, LightGBM)
+Develop a Streamlit web application for interactive predictions
+
+👨‍💻 Author
+Devika Polavarapu
+puppy567567@gmail.com
